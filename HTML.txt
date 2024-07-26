@@ -58,23 +58,4 @@ History of HTML :
  - No. HTML Markup Language.Computer Language.
  
  =============================================
-Create HTML : 
-Extension : 1) .html (New Version)
-			2) .htm	 (Old)
 		
-		
-Install : 
-1) Extension  : -Live Preview 
-				-live server
-
----> Error :  X
-
-==============================
-alt key(hold)+ z 
-
-
-Comments : 
-1) Single Line
-2) Multiline 
-
-<!--  Content -->
